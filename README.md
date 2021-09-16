@@ -39,13 +39,12 @@ To get started with API2Cart <a href="https://app.api2cart.com/#register">regist
 
 <h2><b>Documentation for API Endpoints</b></h2>
 All URIs are relative to https://api.api2cart.com/v1.1
+
 Our <a href="https://docs.api2cart.com/">documentation</a> includes explanations, code samples and interactive examples. 
 
-<h2><b>Contact us</b></h2>
-  
-If you have any questions or problems, please contact us.
-You can also reach us at manager@api2cart.com. You can also mail us your ideas and suggestions about any changes.
-
 <h2><b>Support</b></h2>
+  
+If you have any questions or problems, please <a href="https://api2cart.com/contact-us/">contact us</a>.
+You can also reach us at manager@api2cart.com. You can also mail us your ideas and suggestions about any changes.
+We provide full-tech 24/7 support.
 
-This API is professionally supported by API2Cart. If you want to discuss details of how API2Cart works, contact our customer success manager at manager@api2cart.com.
